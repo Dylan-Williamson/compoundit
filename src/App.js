@@ -1,6 +1,6 @@
 import React from 'react';
-import { Calculator } from './components/Calculator';
-import { Header } from './components/Header'
+import Calculator from './components/Calculator';
+import Header from './components/Header'
 import './css/App.css';
 
 const App = () => {

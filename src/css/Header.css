@@ -1,0 +1,20 @@
+.header {
+  width: 100vw;
+  text-align: center;
+  background-color: black;
+  margin-bottom: 20px;
+}
+
+.header img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 45vw;
+  margin-bottom: 10px;
+}
+
+.header h1 {
+  font-size: 2.5vw;
+  color: white;
+}

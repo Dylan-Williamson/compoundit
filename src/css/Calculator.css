@@ -1,0 +1,23 @@
+* {
+  color: white;
+  background-color: black;
+}
+
+label {
+  font-size: medium;
+}
+
+.calculator {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.calculator button {
+  margin-bottom: 10px;
+}
+
+.calculator button:focus,
+input:focus {
+  outline: none;
+}
